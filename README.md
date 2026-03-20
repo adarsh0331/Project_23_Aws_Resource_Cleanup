@@ -30,6 +30,7 @@ Works 100% on **Windows, macOS, and Linux** ·
 
 Done! Python is now installed.
 
+
 ### Step 2: Open Terminal (Command Prompt or Git Bash)
 
 - Press `Win + R` → type `cmd` → Enter  
